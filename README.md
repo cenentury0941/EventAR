@@ -1,6 +1,7 @@
-## Inspiration
+# EventAR
 ![Alt text](https://raw.githubusercontent.com/cenentury0941/Pictures/main/eventar04.png)
 
+## Inspiration
 The inspiration for EventAR arose from the common challenges faced by event attendees navigating unfamiliar cities. Traditional maps and navigation tools often fall short in providing an immersive and customized experience. The idea was to leverage the capabilities of Unity's game engine and Google's Geospatial Creator API to create a cutting-edge augmented reality (AR) navigation tool, offering users a more engaging and reliable way to reach event venues.
 
 ## What it does
